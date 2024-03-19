@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
           padding: EdgeInsets.only(left: 40.w, right: 40.w),
           width: MediaQuery.of(context).size.width,
           height: 96.h,
-          color: Colors.white,
+          color: Colors.red,
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
